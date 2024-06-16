@@ -1,0 +1,14 @@
+{
+  "name": "videosite",
+  "version": "1.0.0",
+  "description": "video shareing site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Aayush Goel",
+  "license": "ISC"
+}
